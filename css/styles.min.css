@@ -1548,7 +1548,7 @@ span.wpcf7-list-item-label:after {
 div.wpcf7 .ajax-loader {
   visibility: hidden;
   display: inline-block;
-  background-image: url(../../../plugins/contact-form-7/images/ajax-loader.gif);
+  background-image: url(../assets/images/ajax-loader.gif);
   width: 16px;
   height: 16px;
   border: none;
@@ -5815,7 +5815,7 @@ dd {
   top: 3px;
   width: 14px;
   height: 14px;
-  background: url(../../../themes/assets/images/quote.svg) no-repeat;
+  background: url(../assets/images/quote.svg) no-repeat;
   background-size: contain;
   opacity: .65
 }
@@ -6605,7 +6605,7 @@ h2.screen-reader-text {
   display: block;
   width: 11px;
   height: 12px;
-  background: url(../../../themes/assets/images/pag.png) no-repeat center center;
+  background: url(../assets/images/pag.png) no-repeat center center;
   background-size: contain;
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
@@ -6704,7 +6704,7 @@ a.next.page-numbers:hover {
   display: block;
   width: 11px;
   height: 20px;
-  background: url(../../../themes/assets/images/pag.png) no-repeat center center;
+  background: url(../assets/images/pag.png) no-repeat center center;
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
   -webkit-transition: all .3s ease 0s;
@@ -7586,14 +7586,14 @@ a.next.page-numbers:hover {
   float: right;
   width: 50px;
   height: 50px;
-  background: url(../../../themes/assets/images/android-search.png) no-repeat center center;
+  background: url(../assets/images/android-search.png) no-repeat center center;
   background-size: 18px 18px;
   font-size: 0;
   border: none
 }
 
 .search-form input.search-submit:hover {
-  background: url(../../../themes/assets/images/android-search.png) no-repeat center center;
+  background: url(../assets/images/android-search.png) no-repeat center center;
   background-size: 18px 18px
 }
 
@@ -8070,8 +8070,8 @@ p.no-comments {
 */
 @font-face {
   font-family: "Ionicons";
-  src: url(../../../themes/assets/fonts/ionicons790f.eot);
-  src: url(../../../themes/assets/fonts/ionicons.eot?v=2.0.1#iefix) format("embedded-opentype"), url(../../../themes/assets/fonts/ionicons.ttf?v=2.0.1) format("truetype"), url(../../../themes/assets/fonts/ionicons.woff?v=2.0.1) format("woff"), url(../../../themes/assets/fonts/ionicons.svg?v=2.0.1#Ionicons) format("svg");
+  src: url(../assets/fonts/ionicons790f.eot);
+  src: url(../assets/fonts/ionicons.eot?v=2.0.1#iefix) format("embedded-opentype"), url(../assets/fonts/ionicons.ttf?v=2.0.1) format("truetype"), url(../assets/fonts/ionicons.woff?v=2.0.1) format("woff"), url(../assets/fonts/ionicons.svg?v=2.0.1#Ionicons) format("svg");
   font-weight: 400;
   font-style: normal
 }
@@ -20979,8 +20979,8 @@ screen and (max-height:300px) {
   font-family: "Font Awesome 5 Brands";
   font-style: normal;
   font-weight: normal;
-  src: url(../../../../webfonts/fa-brands-400.eot);
-  src: url(../../../../webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(../../../../webfonts/fa-brands-400.woff2) format("woff2"), url(../../../../webfonts/fa-brands-400.woff) format("woff"), url(../../../../webfonts/fa-brands-400.ttf) format("truetype"), url(../../../../webfonts/fa-brands-400.svg#fontawesome) format("svg")
+  src: url(../webfonts/fa-brands-400.eot);
+  src: url(../webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(../webfonts/fa-brands-400.woff2) format("woff2"), url(../webfonts/fa-brands-400.woff) format("woff"), url(../webfonts/fa-brands-400.ttf) format("truetype"), url(../webfonts/fa-brands-400.svg#fontawesome) format("svg")
 }
 
 .fab {
@@ -20991,8 +20991,8 @@ screen and (max-height:300px) {
   font-family: "Font Awesome 5 Free";
   font-style: normal;
   font-weight: 400;
-  src: url(../../../../webfonts/fa-regular-400.eot);
-  src: url(../../../../webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(../../../../webfonts/fa-regular-400.woff2) format("woff2"), url(../../../../webfonts/fa-regular-400.woff) format("woff"), url(../../../../webfonts/fa-regular-400.ttf) format("truetype"), url(../../../../webfonts/fa-regular-400.svg#fontawesome) format("svg")
+  src: url(../webfonts/fa-regular-400.eot);
+  src: url(../webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(../webfonts/fa-regular-400.woff2) format("woff2"), url(../webfonts/fa-regular-400.woff) format("woff"), url(../webfonts/fa-regular-400.ttf) format("truetype"), url(../webfonts/fa-regular-400.svg#fontawesome) format("svg")
 }
 
 .far {
@@ -21003,8 +21003,8 @@ screen and (max-height:300px) {
   font-family: "Font Awesome 5 Free";
   font-style: normal;
   font-weight: 900;
-  src: url(../../../../webfonts/fa-solid-900.eot);
-  src: url(../../../../webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(../../../../webfonts/fa-solid-900.woff2) format("woff2"), url(../../../../webfonts/fa-solid-900.woff) format("woff"), url(../../../../webfonts/fa-solid-900.ttf) format("truetype"), url(../../../../webfonts/fa-solid-900.svg#fontawesome) format("svg")
+  src: url(../webfonts/fa-solid-900.eot);
+  src: url(../webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(../webfonts/fa-solid-900.woff2) format("woff2"), url(../webfonts/fa-solid-900.woff) format("woff"), url(../webfonts/fa-solid-900.ttf) format("truetype"), url(../webfonts/fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .fa,
@@ -21200,7 +21200,7 @@ screen and (max-height:300px) {
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
-  background: url(../../../themes/assets/css/owl.video.play.html) no-repeat;
+  background: url(owl.video.play.html) no-repeat;
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;
